@@ -1,7 +1,7 @@
 import ConfigParser
 import logging
 
-from logging.handlers import RotatingFileHandler
+#from logging.handlers import RotatingFileHandler
 from flask import Flask, url_for
 
 app = Flask(__name__)
